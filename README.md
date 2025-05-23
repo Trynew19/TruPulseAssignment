@@ -34,12 +34,12 @@ We use a simple RegEx-based parser:
 
 ## 🛠 Setup Instructions
 ```bash
-git clone https://github.com/your-username/ai-chat-interface.git
-cd ai-chat-interface
+git clone https://github.com/Trynew19/TruPulseAssignment.git
+cd TruPulseAssignment
 npm install
 npm run dev # or npm start
 ```
-Open your browser at `http://localhost:3000`
+Open your browser at `http://localhost:5173`
 
 ## 🔧 Stack
 - React (with Hooks)
