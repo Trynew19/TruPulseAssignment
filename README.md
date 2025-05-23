@@ -48,7 +48,7 @@ Open your browser at `http://localhost:5173`
 - `uuid` for message IDs
 
 ## 🌐 Optional: Live Demo
-Check out the live version here: [Demo Link](https://your-demo-site.com) *(replace with your Netlify/Vercel link)*
+Check out the live version here: [Demo Link](https://tru-pulse-assignment.vercel.app/)
 
 ---
 
